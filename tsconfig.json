@@ -1,0 +1,31 @@
+{
+  "compilerOptions": {
+    //
+    // Module Resolution
+    //
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    //
+    // Checks
+    //
+    "strict": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": false,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "forceConsistentCasingInFileNames": true,
+    //
+    // Build Options
+    //
+    "target": "es2018",
+    "module": "commonjs",
+    "rootDir": "./src",
+    "outDir": "./dist/",
+    "removeComments": true,
+    //
+    // Source Maps
+    //
+    "sourceMap": true
+  }
+}
