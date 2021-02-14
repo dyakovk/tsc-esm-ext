@@ -1,0 +1,19 @@
+{
+  "name": "tsc-esm-ext",
+  "version": "1.0.0",
+  "description": "Post-processor for the TypeScript compiler that adds the js / mjs extension for compiled files if you want to use ESM as a module system",
+  "license": "MIT",
+  "author": "Kirill Dyakov",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyakovk/tsc-esm-ext.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dyakovk/tsc-esm-ext/issues"
+  },
+  "homepage": "https://github.com/dyakovk/tsc-esm-ext#readme",
+  "keywords": [],
+  "engines": {
+    "node": ">=12"
+  }
+}
